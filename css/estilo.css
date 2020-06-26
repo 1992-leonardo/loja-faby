@@ -1,11 +1,11 @@
 body{
 	font-family: 'Roboto', sans-serif;
 	/*Aqui eu defino a cor da fonte do meu site */
-	color: #ddd;
+	color: #000;
 }
 
 a:link, a:active, a:visited{
-	color: #f8f0ff;
+	color: #000;
 	/*Cores para definir do home, sobre, contato
 	text-decoration: none;*/
 }
@@ -149,7 +149,7 @@ img{
 
 /* Definindo a cor de fundo do meu menu */
 .header{
-	background: #000;
+	background: #800000;
 	
 }
 /* aqui irei estilizar só meu h1 que tiver a classe logo */
@@ -175,18 +175,18 @@ h1.logo{
 
 /* aqui eu começo a estilizar o meu conteúdo extra */
 .conteudo-extra{	
-	background: #000;
+	background: #800000;
 }
 
 /* aqui eu começo a estilizar o meu rodapá */
 .footer{
 	/* aqui em baixo eu coloco a cor da risca que eu quero */	
-	background: #000;
+	background: #800000;
 	/* aqui em baixo eu escolho a cor da letra que eu quero  */	
-	color: #f8f0ff;
+	color: #ddd;
 	padding: 20px 0;
 	text-align: center;
-	font-weight: 100;
+	font-weight: 300;
 }
 
 /* aqui eu irei estilizar o menu da minha página*/
@@ -211,7 +211,8 @@ h1.logo{
 	do home , e outros iténs do meu menu */
 	text-decoration: none;
 	background: #1f3c58;
-	color: #ebebeb;
+	/* aqui eu coloco a cor da letra quando está passando o mouse em cima */
+	color: #ddd;
 }
 
 /* começando a estilizar as minhas notícias */
@@ -288,8 +289,8 @@ ul.noticias li p a{
 	color: #f8f0ff;
 	
 }	
-.mark  {
-	color: #000000;
+.mark   {
+	color: ;
 }
 
 
