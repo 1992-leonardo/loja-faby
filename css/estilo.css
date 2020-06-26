@@ -1,7 +1,7 @@
 body{
 	font-family: 'Roboto', sans-serif;
 	/*Aqui eu defino a cor da fonte do meu site */
-	color: #f8f0ff;
+	color: #ddd;
 }
 
 a:link, a:active, a:visited{
@@ -149,7 +149,7 @@ img{
 
 /* Definindo a cor de fundo do meu menu */
 .header{
-	background: #a52a2a;
+	background: #000;
 	
 }
 /* aqui irei estilizar só meu h1 que tiver a classe logo */
@@ -175,13 +175,13 @@ h1.logo{
 
 /* aqui eu começo a estilizar o meu conteúdo extra */
 .conteudo-extra{	
-	background: #a52a2a;
+	background: #000;
 }
 
 /* aqui eu começo a estilizar o meu rodapá */
 .footer{
 	/* aqui em baixo eu coloco a cor da risca que eu quero */	
-	background: #a52a2a;
+	background: #000;
 	/* aqui em baixo eu escolho a cor da letra que eu quero  */	
 	color: #f8f0ff;
 	padding: 20px 0;
