@@ -149,7 +149,7 @@ img{
 
 /* Definindo a cor de fundo do meu menu */
 .header{
-	background: #ff1493;
+	background: #a52a2a;
 	
 }
 /* aqui irei estilizar só meu h1 que tiver a classe logo */
@@ -175,13 +175,13 @@ h1.logo{
 
 /* aqui eu começo a estilizar o meu conteúdo extra */
 .conteudo-extra{	
-	background: #ff1493;
+	background: #a52a2a;
 }
 
 /* aqui eu começo a estilizar o meu rodapá */
 .footer{
 	/* aqui em baixo eu coloco a cor da risca que eu quero */	
-	background: #ff1493;
+	background: #a52a2a;
 	/* aqui em baixo eu escolho a cor da letra que eu quero  */	
 	color: #f8f0ff;
 	padding: 20px 0;
