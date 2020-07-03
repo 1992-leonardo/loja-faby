@@ -1,11 +1,11 @@
 body{
 	font-family: 'Roboto', sans-serif;
 	/*Aqui eu defino a cor da fonte do meu site */
-	color: #000;
+	color: #f8f0ff;
 }
 
 a:link, a:active, a:visited{
-	color: #000;
+	color: #f8f0ff;
 	/*Cores para definir do home, sobre, contato
 	text-decoration: none;*/
 }
@@ -149,7 +149,7 @@ img{
 
 /* Definindo a cor de fundo do meu menu */
 .header{
-	background: #800000;
+	background: hotpink;
 	
 }
 /* aqui irei estilizar só meu h1 que tiver a classe logo */
@@ -183,7 +183,7 @@ h1.logo{
 	/* aqui em baixo eu coloco a cor da risca que eu quero */	
 	background: #800000;
 	/* aqui em baixo eu escolho a cor da letra que eu quero  */	
-	color: #ddd;
+	color: #000;
 	padding: 20px 0;
 	text-align: center;
 	font-weight: 300;
@@ -293,4 +293,194 @@ ul.noticias li p a{
 	color: ;
 }
 
+/* Aqui eu coloco o css do landing page  */
 
+body{
+    font-family: 'Roboto', sans-serif;
+    /*Aqui eu defino a cor da fonte do meu site */
+    color: #f8f0ff;
+}
+
+style body img {    
+    width: 100%;
+    height: 100%;"
+}
+
+{
+    padding; 0;
+    margin: 0;
+}
+
+.wrapper {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* //////////////////*/
+/* ////ASIDE/////*/
+/*//////////////*/
+#aside {
+    float: left;
+    width: 25%;
+    /* width: 25%; aqui eu coloco o tamanho da margen largura */
+    height: 120%;
+    /* Aqui eu coloco a altura da minha margem  */
+    position: fixed;
+    background-color: ;
+}
+
+.inner {
+    padding: 20px;
+    /* aqui eu coloco a altura do meus aside */
+}
+
+#aside_form input {
+    width: 100%;
+    /* aqui eu deixo no tamanho que eu quero a barra de buscar */
+    padding: 3px;
+    border-radius: 5px;
+    border: none;
+}
+
+#aside_header h2 {
+    border-bottom: 4px solid 
+    hotpink;
+    width: 100px;
+    /* Aqui eu defino o tamanho da minha risca */
+    padding: 10px;
+    /* aqui eu defino a distância uma da outra, de cima pra baixo */
+}
+
+#aside li {
+    list-style: none;
+    padding: 10px 0px;
+}
+
+#aside a {
+    text-decoration: none;
+    color: #f8f0ff;
+}
+
+#aside_footer p {
+    position: fixed;
+    bottom: 10px;
+    color: #f8f0ff;
+}
+/* //////////////////*/
+/* ////MAIN/////*/
+/*//////////////*/
+
+#main{
+    float: right;
+    width: 75%;
+}
+
+#main_header {
+    width: 100%;
+    min-height: 60px;
+    border-bottom: 4px solid
+     hotpink;
+}
+
+.brand{
+    float: left;
+}
+
+.icons {
+    float: right;
+}
+
+.icons li {
+    display: inline;
+    padding: 0px 20px;
+}
+
+.icons a {
+    text-decoration: none;
+    color: #f8f0ff;
+}
+
+/* /////////////////*/
+/* ///////BANNER////*/
+/*/////////////////*/
+
+#main_banner {
+    width: 100 %;
+    height: 250px;
+    padding: 20px 0px;
+}
+
+.main_banner_esquerda {
+    float: left;
+}
+
+.main_banner_esquerda h1 {
+    font-size: 30px;
+    padding: 10px 0px;
+}
+
+.main_banner_esquerda p {
+    margin: 20px 0px;
+    padding: 10px 0px;
+}
+
+button {
+    background-color: #f8f0ff;
+    border: 2px solid hotpink;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.main_banner_direita {
+    float: right;
+}
+
+.main_banner_direita img {
+    height: 250px;
+    border-radius: 10px;
+}
+
+/* //////////////*/
+/*  MAIN CURSOS/*/
+/*/////////////*/
+
+#main_cursos h2 {
+    border-bottom: 4px solid hotpink;
+    width: 350px;
+    padding: 5px 0px;
+}
+
+#main_cursos h3 {
+    padding: 20px;
+    }
+
+    #main_cursos p {
+        padding: 10px;
+        color: #f8f0ff;
+    }
+
+    .box {
+        width: 45%;
+        float: left;
+        padding: 20px 0px;
+    }
+
+    article img {
+        float: left;
+        border: 0px solid gray;
+        padding: 00px;
+        margin: 30px 20px;
+        color: hotpink;
+        transform: rotate(0deg);
+        max-width: 200px;
+
+    }
+    /* aqui eu começo outra estilização */
+
+
+
+    
+    
+    
